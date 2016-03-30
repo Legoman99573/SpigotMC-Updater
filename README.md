@@ -7,6 +7,12 @@ Download, update and install [BuildTools.jar](https://hub.spigotmc.org/jenkins/j
 2. Download and install [BuildTools.sh](https://github.com/NatoBoram/Buildtools-Updater/raw/0.10.4-Beta/BuildTools.sh)
 3. Run [BuildTools.sh](https://github.com/NatoBoram/Buildtools-Updater/raw/0.10.4-Beta/BuildTools.sh)
 
+### How to install [Java](http://www.java.com/en/download/manual.jsp)
+This guide shows how to install [Java](http://www.java.com/en/download/manual.jsp) in order to use it quickly. If you didn't use these steps during your installation, it is recommended that you reinstall it because some of these steps are mendatory for this auto updater. To begin, download [Windows Offline](http://javadl.oracle.com/webapps/download/AutoDL?BundleId=207229) and [Windows Offline (64-bit)](http://javadl.oracle.com/webapps/download/AutoDL?BundleId=207231).
+
+![1](https://raw.githubusercontent.com/Legoman99573/SpigotMC-Updater/master/HowTo/Java/1.PNG)
+![2](https://raw.githubusercontent.com/Legoman99573/SpigotMC-Updater/master/HowTo/Java/2.PNG)
+
 ### How to Install [Git for Windows](https://git-for-windows.github.io/)
 This guide shows how to install [Git for Windows](https://git-for-windows.github.io/) in order to use its maximum potency. If you didn't use these options during your installation, it is recommended that you reinstall it because some of these options are mendatory for this auto updater.
 
