@@ -35,7 +35,7 @@ This guide shows how to install [BuildTools.sh](https://github.com/NatoBoram/Bui
 4. Save it anywhere
 5. Double-click on BuildTools.sh
 
-The script will download BuildTools.jar, execute it, delete BuildTools.jar, update itself and exit.
+The script will download [BuildTools.jar](https://hub.spigotmc.org/jenkins/job/BuildTools/), execute it, delete [BuildTools.jar](https://hub.spigotmc.org/jenkins/job/BuildTools/), update itself and exit.
 
 ## Attributions
 [Free Software Foundation](http://www.gnu.org/licenses/gpl) | [BuildTools](https://hub.spigotmc.org/jenkins/job/BuildTools/) | [Git for Windows](https://git-for-windows.github.io/) | [Java](http://www.java.com) | [Mojang](http://mojang.com/) | [Semantic Versionning](http://semver.org/) | [Spigot](https://www.spigotmc.org/)
