@@ -1,4 +1,4 @@
-# BuildTools Updater
+# SpigotMC Updater
 Download, update and install [BuildTools.jar](https://hub.spigotmc.org/jenkins/job/BuildTools/) automatically.
 
 ## Instructions
