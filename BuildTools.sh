@@ -1,4 +1,4 @@
-read -t60 -n1 -r -p "SpigotMC Updater : Updates everything Spigot-related. Copyright © 2016 NatoBoram
+read -t60 -n1 -r -p "SpigotMC Updater : Updates everything Spigot-related. Copyright (C) 2016 NatoBoram
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
