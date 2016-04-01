@@ -26,5 +26,16 @@ This guide shows how to install [Git for Windows](https://git-for-windows.github
 ![8](https://raw.githubusercontent.com/Legoman99573/SpigotMC-Updater/master/HowTo/Git/8.PNG)
 ![9](https://raw.githubusercontent.com/Legoman99573/SpigotMC-Updater/master/HowTo/Git/9.PNG)
 
+### How to install [BuildTools.sh](https://github.com/NatoBoram/Buildtools-Updater/raw/0.10.4-Beta/BuildTools.sh)
+This guide shows how to install [BuildTools.sh](https://github.com/NatoBoram/Buildtools-Updater/raw/0.10.4-Beta/BuildTools.sh) and run it. You must have completed the previous instructions for this script to work.
+
+1. Left-click on [BuildTools.sh](https://github.com/NatoBoram/Buildtools-Updater/raw/0.10.4-Beta/BuildTools.sh)
+2. Right-click on the text
+3. Select "Save as..."
+4. Save it anywhere
+5. Double-click on BuildTools.sh
+
+The script will download BuildTools.jar, execute it, delete BuildTools.jar, update itself and exit.
+
 ## Attributions
 [Free Software Foundation](http://www.gnu.org/licenses/gpl) | [BuildTools](https://hub.spigotmc.org/jenkins/job/BuildTools/) | [Git for Windows](https://git-for-windows.github.io/) | [Java](http://www.java.com) | [Mojang](http://mojang.com/) | [Semantic Versionning](http://semver.org/) | [Spigot](https://www.spigotmc.org/)
