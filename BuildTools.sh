@@ -5,9 +5,11 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/."
+rm spigot-*.jar
+rm craftbukkit-*.jar
 curl -o License.txt https://raw.githubusercontent.com/Legoman99573/SpigotMC-Updater/master/License.md
 curl -o BuildTools.jar https://hub.spigotmc.org/jenkins/job/BuildTools/lastBuild/artifact/target/BuildTools.jar
-java -jar BuildTools.jar --rev latest
+java -jar BuildTools.jar --rev 1.10
 find "./Spigot/Spigot-API/target/" -name "spigot-api-*-shaded.jar" -exec cp -i {} . \;
 rm BuildTools.jar
 curl -o BuildTools.sh https://raw.githubusercontent.com/Legoman99573/SpigotMC-Updater/master/BuildTools.sh
